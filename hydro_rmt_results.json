@@ -1,0 +1,38 @@
+{
+  "old_faithful": {
+    "n": 271,
+    "r": 0.737572,
+    "re": 0.00848,
+    "b": 3.0,
+    "cv": 0.2,
+    "ks_poisson": 0.462995,
+    "ks_goe": 0.260801,
+    "ks_gue": 0.212433,
+    "best_fit": "GUE",
+    "mean_raw_spacing": 70.8007
+  },
+  "basin_mixed": {
+    "n": 800,
+    "r": 0.383266,
+    "re": 0.009424,
+    "b": 0.01,
+    "cv": 1.0655,
+    "ks_poisson": 0.032613,
+    "ks_goe": 0.245086,
+    "ks_gue": 0.312509,
+    "best_fit": "Poisson",
+    "mean_raw_spacing": 0.6338
+  },
+  "ird_events": {
+    "n": 34,
+    "r": 0.550192,
+    "re": 0.040263,
+    "b": 0.475,
+    "cv": 0.7711,
+    "ks_poisson": 0.223135,
+    "ks_goe": 0.128528,
+    "ks_gue": 0.19107,
+    "best_fit": "GOE",
+    "mean_raw_spacing": 1.5279
+  }
+}
