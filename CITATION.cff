@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+title: >-
+  From Geysers to Megafloods: Random Matrix Theory Reveals
+  Universal Level Repulsion in Hydrogeological
+  Charge-and-Release Systems
+message: If you use this software or data, please cite it using this metadata.
+type: software
+authors:
+  - given-names: Ruqing
+    family-names: Chen
+    email: ruqing@hotmail.com
+    affiliation: 'GUT Geoservice Inc., Montreal, Canada'
+repository-code: 'https://github.com/Ruqing1963/hydro-rmt-geysers-floods'
+abstract: >-
+  Random matrix theory analysis of hydrogeological charge-and-release systems
+  across six orders of magnitude in timescale. Old Faithful Geyser (single
+  source, 271 eruption intervals) shows super-GUE rigidity (r-bar = 0.738),
+  the strongest repulsion in any geological system. Multi-geyser superposition
+  collapses to Poisson (r-bar = 0.383). North Atlantic IRD events from DSDP
+  Site 609 (34 spacings) show GOE-class repulsion (r-bar = 0.550). Fifth in
+  a unified RMT program spanning eight Earth systems from geysers to the
+  core-mantle boundary.
+keywords:
+  - random matrix theory
+  - geysers
+  - glacial-lake outburst floods
+  - ice-rafted debris
+  - Old Faithful
+  - Heinrich events
+  - level repulsion
+  - spectral superposition
+  - hydrogeology
+license: MIT
+version: 1.0.0
+date-released: '2026-06-21'
